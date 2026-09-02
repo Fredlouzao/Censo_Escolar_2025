@@ -84,7 +84,7 @@ Transformar dados públicos do Censo Escolar em informações visuais e estraté
 
 ## 📷 Dashboard
 
-![Dashboard Censo Escolar 2025](images/dashboard_censo_2025.png)
+![Dashboard Censo Escolar 2025](imagens.png)
 
 ## 📊 Fonte dos dados
 
